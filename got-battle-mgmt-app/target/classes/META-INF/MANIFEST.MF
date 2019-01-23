@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ticketmgmtapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sony
+Implementation-Vendor-Id: com.ticketmgmtapp.main
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ticketmgmtapp
+Created-By: Maven Integration for Eclipse
+
